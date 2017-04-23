@@ -1,5 +1,9 @@
 클린 코더스 강의 3. Function
 =============================
+
+> * 유튜브 : https://www.youtube.com/watch?v=60lLSe1phks
+> * 강의 자료 : https://github.com/msbaek/clean-coders-2013
+
 1. 원칙
   * 한가지 일만 해야 한다.
   * 함수의 크기는 작아야한다.
@@ -49,7 +53,7 @@ Intelli J
 * extract method Object : 메소드를 클래스로 추출
 * variable : 변수로 추출
 
-> 리팩토링 예제 
+> 리팩토링 예제
 <pre><code>
 // 리펙토링 후
 public class FitnessExample {
