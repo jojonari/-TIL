@@ -6,13 +6,13 @@
 
 > 실습준비
 > Install tokyo-cabinet
-`$brew install tokyo-cabinet`
+> `$brew install tokyo-cabinet`
 > tokyo-tyrant 패키지 다운
 > http://fallabs.com/tokyotyrant/
 > 압축 풀고
-`$./configure
-$make
-$make Install`
+> `$./configure`
+> `$make`
+> `$make Install`
 
 1. TDD 실습
   * tokyo-tyrant 예제
