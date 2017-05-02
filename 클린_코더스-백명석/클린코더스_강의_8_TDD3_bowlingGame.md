@@ -22,3 +22,6 @@
 3. 테스트를 추가하는 순서
   * 가장 간단한
   * 그러나 의미있는 것부터 테스트 한다.
+
+> 실습 코드
+> https://github.com/jojonari/bowling-game.git
