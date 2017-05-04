@@ -21,7 +21,11 @@
     - 잘못된 테스트 작성
     - 프로덕션 코드를 너무 구체적으로 작성
     - 위의 두 문제 모두 해당하는 경우
-    
+
+3. wordWrap
+  * 테스트코드가 아니다 싶으면 처음부터 다시 작성하라.
+  * 아주 작은 것부터 시작해라.
 
 > 실습 코드
 > https://github.com/jojonari/prime_number_generator.git
+> https://github.com/jojonari/wordwrap.git
