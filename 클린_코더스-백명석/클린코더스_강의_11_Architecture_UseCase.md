@@ -53,5 +53,3 @@
 >정리해야 할것
 
 * pojo
-* delivery
-* Interactors
