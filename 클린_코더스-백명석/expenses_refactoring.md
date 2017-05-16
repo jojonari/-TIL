@@ -11,4 +11,6 @@ expenses refactoring
     - 데이터를 가져와서 프로세싱을 하는게 아니다.
     - 데이터를 가진 객체에서 프로세싱을 하게 한다.
     - 데이터를 가진 객체와 비지니스로직이 분리 되야한다.
-  
+
+> 실습 코드
+> https://github.com/jojonari/expense.git
