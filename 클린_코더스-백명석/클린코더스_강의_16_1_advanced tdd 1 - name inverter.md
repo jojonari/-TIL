@@ -14,6 +14,5 @@
 
 >정리해야 할것
   * JAVA 정규식 공부해보기
-    > ```
-      \\s+ //스페이스가 한 개 이상인 것
-      names.get(0).matches("Mr\\.|Mrs\\."); //Mr.이거나, Mrs 이면 true반환
+    - '\\s+' //스페이스가 한 개 이상인 것
+    - names.get(0).matches("Mr\\.|Mrs\\."); //Mr.이거나, Mrs 이면 true반환
