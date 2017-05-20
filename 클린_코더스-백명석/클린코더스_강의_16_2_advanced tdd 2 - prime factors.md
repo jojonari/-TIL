@@ -5,7 +5,7 @@
 > * 강의 자료 : https://github.com/msbaek/clean-coders-2013
 
 1. advanced TDD
-  * 테스트 순서
+  * 테스트 추가 순서
     1. null - 널을 리턴해서 성공
     2. null to constant - 널이 안되면 상수
     3. constant to variable - 상수가 안되면 변수
