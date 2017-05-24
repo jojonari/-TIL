@@ -14,4 +14,5 @@
     - 실패하는 테스트가 있을때
   * Refactoring
     - 행위 변경없이 구조를 변경하는 것
-  *
+
+>https://github.com/jojonari/TransformationPriorityPremise.git
