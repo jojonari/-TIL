@@ -2,7 +2,7 @@
 ===================================
 
 > * 유튜브 : https://www.youtube.com/watch?v=9tW0QSsrhwc&list=PLfI752FpVCS84hxOeCyI4SBPUwt4Itd0T
-> * 강의 자료 : https://docs.docker.com/get-started/
+> * 강의 자료 : https://docs.docker.com/v18.03/get-started/
 
 1. 도커 기본 명령어
   * docker container ls : 실행중인 컨테이너 목록조회
